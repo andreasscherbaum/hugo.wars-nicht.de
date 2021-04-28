@@ -1,0 +1,18 @@
+baseURL = "https://hugo.wars-nicht.de/"
+languageCode = "en-us"
+title = "Hugo Test Page"
+
+# Theme: https://themes.gohugo.io/hyde-hyde/
+theme = "hyde-hyde"
+
+timeout = 30000
+copyright = "This work is copyright by Andreas Scherbaum"
+rssLimit = 15
+disableHugoGeneratorInject = true
+
+publishdir = "docs"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
